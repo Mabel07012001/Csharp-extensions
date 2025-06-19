@@ -12,3 +12,4 @@ C:\Users\Mabel\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net9.0\refi
 C:\Users\Mabel\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.pdb
 C:\Users\Mabel\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\Mabel\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
+C:\Users\Mabel\Downloads\Start\Start\Overview\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.sourcelink.json
